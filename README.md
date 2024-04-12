@@ -1,14 +1,11 @@
+
+![gitartwork](gitartwork.svg)
 <h1 align="center">Hi 👋, I'm Fariborz Shalghouni por</h1>
 <h3 align="center">
   A passionate, creative, responsible & fast Front-end and Back-End developer.
 </h3>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=fariborz0015&label=Profile%20views&color=0e75b6&style=flat"
-    alt="fariborz0015"
-  />
-</p>
+
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
